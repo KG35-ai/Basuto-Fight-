@@ -1,0 +1,6 @@
+{
+  "name": "Seven Peaks: Basuto Ascension",
+  "description": "Authentic Basuto fighting game featuring traditional Melamu combat mechanics, cultural Kobo blanket animations, and the Royal Guard of the Seven Peaks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
